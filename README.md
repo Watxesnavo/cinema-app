@@ -1,10 +1,10 @@
 # cinema-app
-Cinema app project is a Java-based web application that provides a platform for managing the services related to cinema tickets service.
-The project uses a MySQL database to store and retrieve data related to users, shopping carts, tickets, movies, movie sessions and cinema halls.
-The project is written with help of Spring framework and Hibernate.
-First of all you have to authenticate yourself,
+The Cinema app project is a Java-based web application that provides a platform for managing the services related to cinema tickets service.
+The project uses a MySQL database to store and retrieve data related to users, shopping carts, tickets, movies, movie sessions, and cinema halls.
+The project is written with the help of Spring Framework and Hibernate.
+First of all, you have to authenticate yourself,
 then you can add movies that your clients (users) can purchase to watch it. 
-Client can register and choose the movie he wants to see and buy a ticket for it.
+The Client can register and choose the movie he wants to see and buy a ticket for it.
 the app will display for the client all the information about the bought ticket
 and will show him obviously when and where it will be shown and at what hour it will be.
 
@@ -16,7 +16,7 @@ Java Development Kit (JDK) 16
 Apache Tomcat Server 9
 MySQL Community Server 8.0
 MySQL Connector/J 8.0
-Spring framework
+Spring Framework
 Hibernate framework
 IDE (Integrated Development Environment) such as IntelliJ IDEA, Eclipse, or NetBeans
 
@@ -54,5 +54,9 @@ It's a simple and user-friendly interface that allows you to manage shopping car
 With this project, you can learn how to work with a MySQL database, Spring, and Hibernate frameworks, write controllers, and handle user functionality.
 
 For more information, please open the project and see the code.
+
+# ER diagram:
+
+![Hibernate_Cinema_Uml](https://github.com/Watxesnavo/cinema-app/assets/112902418/45a05adc-f291-43b8-90e8-3e15af549625)
 
 
